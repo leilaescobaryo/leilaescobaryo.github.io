@@ -16,15 +16,11 @@ main:
     identifier: 3fa40cc9
     url: environment/
     weight: 30
-  - name: Presentations
-    identifier: 60a03af0
-    url: /#presentations
-    weight: 40
   - name: Leadership
     identifier: c4231787
     url: leadership/
-    weight: 50
+    weight: 40
   - name: Blog
     identifier: 98fa2817
     url: /#blog
-    weight: 60
+    weight: 50
