@@ -12,17 +12,17 @@ main:
     identifier: a604b48b
     url: experience/
     weight: 20
-  - name: Presentations
-    identifier: 60a03af0
-    url: /#presentations
-    weight: 30
-  - name: Leadership
-    identifier: c4231787
-    url: leadership/
-    weight: 40
   - name: Environment
     identifier: 3fa40cc9
     url: environment/
+    weight: 30
+  - name: Presentations
+    identifier: 60a03af0
+    url: /#presentations
+    weight: 40
+  - name: Leadership
+    identifier: c4231787
+    url: leadership/
     weight: 50
   - name: Blog
     identifier: 98fa2817
