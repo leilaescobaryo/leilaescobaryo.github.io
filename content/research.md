@@ -10,49 +10,76 @@ sections:
   - block: markdown
     content:
       title: 'Research'
-      subtitle: 'Primate ecology and conservation in tropical ecosystems'
+      subtitle: 'Primate ecology and conservation in the Neotropics'
       text: |-
-        I am interested in how primates interact with the forests they live in, and how those
-        interactions respond to human pressure and global change. My goal is to generate
-        knowledge that is useful for the conservation of Amazonian primates and the
-        communities that share their landscapes.
+        My work has been built in the field, across Peru and Brazil. I am interested in how
+        primates interact with the forests they live in, how they respond to human disturbance,
+        and how field science can support reintroduction and the fight against wildlife trafficking.
     design:
       columns: '1'
 
   - block: markdown
     content:
-      title: 'Undergraduate thesis'
-      subtitle: 'Seed dispersal by neotropical primates'
-      text: |-
-        As an undergraduate researcher with the [Research Group on Socioecological Systems](https://hubecosocial.wordpress.com/)
-        at Universidad Peruana Cayetano Heredia, I investigated the role of native primate species
-        as **seed dispersers** in Peru. Seed dispersal links animal behaviour with forest
-        regeneration, making primates key players in maintaining the structure and diversity of
-        tropical forests.
-    design:
-      columns: '1'
-
-  - block: markdown
-    content:
-      title: 'Field & laboratory experience'
+      title: 'Projects'
       subtitle: ''
       text: |-
-        - **Neotropical Primate Conservation, Peru (2025)** — Research and environmental education
-          internship on primate ecology and conservation in the Peruvian Amazon.
-        - **Cocha Cashu Biological Station, San Diego Zoo Wildlife Alliance Peru (2024)** — Field course
-          on primatological research methods in Manu National Park.
-        - **Vilgalys Lab, Duke University (2024)** — Research internship in the Department of Biology
-          as an EcoREPU fellow, gaining experience in laboratory and molecular approaches to primate biology.
+        ### Site assessment for primate reintroduction
+        *Ikama Peru Wildlife Rescue Center, Loreto · 2026–present*
+
+        Ecological assessment of an Amazonian site for the reintroduction of primates confiscated
+        from the illegal wildlife trade: primate abundance and density from standardized transects,
+        botanical plots for vegetation structure and food resources, surveys of local residents,
+        and technical recommendations for Peruvian authorities.
+
+        ### Seed dispersal by *Lagothrix flavicauda* and *Aotus miconax*
+        *Undergraduate thesis · Neotropical Primate Conservation & Lab of Socio-ecological Systems, UPCH · Amazonas · 2025–present*
+
+        Field study of seed dispersal by two Peruvian endemic primates in montane forest, using
+        diurnal and nocturnal tracking, focal observations and feeding records.
+
+        ### Activity budgets of lactating *Ateles chamek* females
+        *Cocha Cashu Biological Station, Manu National Park · 2024*
+
+        Independent pilot study comparing activity budgets and dietary preferences of lactating
+        and non-lactating adult female spider monkeys, using a purpose-built ethogram.
+
+        ### Population monitoring of *Ateles chamek*
+        *Amarakaeri Communal Reserve & SERNANP, Madre de Dios · 2024*
+
+        Relative abundance and population density of spider monkeys in human-disturbed areas.
+
+        ### Monitoring of reintroduced golden lion tamarins
+        *Associação Mico-Leão-Dourado, Rio de Janeiro, Brazil · 2026*
+
+        Radio-telemetry and direct observation of individually identified *Leontopithecus rosalia*
+        in a long-term reintroduction programme.
     design:
       columns: '1'
 
   - block: markdown
+    id: presentations
     content:
-      title: 'Research interests'
+      title: 'Selected presentations & outreach'
       subtitle: ''
       text: |-
-        Primate ecology · Conservation biology · Seed dispersal and plant–animal interactions ·
-        Molecular ecology · Conservation genetics · Global change · Socio-ecological systems
+        - **Activity patterns and dietary preferences in *Ateles chamek*: a comparative analysis between lactating and non-lactating females at Cocha Cashu, Peru.**
+          Poster, Peruvian Primatological Congress, Lima, 2026.
+        - **Patterns and rates of seed dispersal by *Lagothrix flavicauda* and *Aotus miconax* in a montane forest of Amazonas, Peru.**
+          Oral presentation, 6th Undergraduate Scientific Congress, Cayetano Heredia Peruvian University, Lima, 2025.
+        - **Introduction to the Study of Primates in Peru.**
+          Mini-course organiser and speaker, Natural History Museum, San Marcos National University, Lima, 2025.
+    design:
+      columns: '1'
+
+  - block: markdown
+    id: affiliations
+    content:
+      title: 'Professional affiliations'
+      subtitle: ''
+      text: |-
+        International Primatological Society · American Society of Primatologists ·
+        Latin American Society of Primatology (SLAPrim) · Peruvian Primatological Association ·
+        Society for Conservation Biology
     design:
       columns: '1'
 ---

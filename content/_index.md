@@ -15,11 +15,9 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
       text: ''
-      # To show a "Download CV" button, upload your CV to `static/uploads/resume.pdf`
-      # and uncomment the lines below.
-      # button:
-      #   text: Download CV
-      #   url: uploads/resume.pdf
+      button:
+        text: Download CV
+        url: uploads/resume.pdf
       headings:
         about: 'About me'
         education: 'Education'
@@ -38,19 +36,21 @@ sections:
   - block: markdown
     id: research
     content:
-      title: 'Research focus'
+      title: 'Current work'
       subtitle: ''
       text: |-
-        My work sits at the intersection of **primate ecology** and **tropical forest conservation**.
-        For my undergraduate thesis I studied **seed dispersal by neotropical primates** in Peru, a key
-        ecological process through which primates help regenerate Amazonian forests.
+        **Primate reintroduction — Ikama Peru Wildlife Rescue Center (2026–present).**
+        As consultant biologist and project lead, I assess whether an Amazonian site in Loreto
+        is suitable for reintroducing primates confiscated from the illegal wildlife trade,
+        combining transect surveys, botanical plots and community consultation.
 
-        Through field placements in the Peruvian Amazon and a research internship at Duke University,
-        I have combined behavioural field methods with laboratory and molecular approaches. I am now
-        looking for graduate and research opportunities in primate ecology, conservation genetics and
-        socio-ecological systems.
+        **Seed dispersal by endemic primates — undergraduate thesis.**
+        With Neotropical Primate Conservation and the Lab of Socio-ecological Systems (UPCH),
+        I study patterns and rates of seed dispersal by the yellow-tailed woolly monkey
+        (*Lagothrix flavicauda*) and the Andean night monkey (*Aotus miconax*) in the montane
+        forests of Amazonas, Peru.
 
-        [Read more about my research →](research/)
+        [More about my research →](research/)
     design:
       columns: '1'
 
@@ -66,8 +66,8 @@ sections:
       title: 'Get in touch'
       subtitle: ''
       text: |-
-        I am open to collaborations, field projects and graduate opportunities.
-        Feel free to write to me at [leilaescobaryomona@gmail.com](mailto:leilaescobaryomona@gmail.com)
+        I am open to collaborations, fieldwork and graduate opportunities in primatology
+        and conservation. Write to me at [leilaescobaryomona@gmail.com](mailto:leilaescobaryomona@gmail.com)
         or connect on [LinkedIn](https://www.linkedin.com/in/leila-escobar/).
     design:
       columns: '1'
