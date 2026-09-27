@@ -18,12 +18,12 @@ hugoblox:
     # Schema.org type for structured data
     type: person # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: ""
+    tagline: "Primate ecology & conservation"
     # Site meta description for search engines and social sharing
-    description: "The highly-customizable Hugo Academic theme powered by HugoBlox Kit. Easily create your personal academic website."
+    description: "Leila Escobar-Yomona is a biology graduate from Universidad Peruana Cayetano Heredia working on primate ecology, seed dispersal and conservation in the Peruvian Amazon."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
-      twitter: "MakeOwnable" # Twitter/X handle for Twitter Cards (without @)
+      twitter: "" # Twitter/X handle for Twitter Cards (without @)
     name: Leila Escobar-Yomona
 
   # ────────────────────────────────────────────────────────────────────────────
@@ -37,9 +37,9 @@ hugoblox:
     pack: "default"
     # Optional: Override theme pack colors
     colors:
-      primary: "" # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
-      secondary: ""
-      neutral: "" # Affects gray utilities (text-gray-*, bg-gray-*)
+      primary: "emerald" # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
+      secondary: "teal"
+      neutral: "stone" # Affects gray utilities (text-gray-*, bg-gray-*)
     # Optional: Mode-specific color overrides
     colors_light: {}
     colors_dark: {}
@@ -89,15 +89,15 @@ hugoblox:
     # Menu alignment
     align: center # left | center | right
     # Feature toggles
-    search: true
+    search: false
     theme_toggle: true
-    theme_picker: true
-    language_switcher: true
+    theme_picker: false
+    language_switcher: false
     # Call-to-action button
     cta:
-      enable: false
-      text: ""
-      url: ""
+      enable: true
+      text: "Contact"
+      url: "mailto:leilaescobaryomona@gmail.com"
 
   # ────────────────────────────────────────────────────────────────────────────
   # FOOTER
@@ -106,7 +106,7 @@ hugoblox:
   footer:
     # Footer style variant
     style: minimal # minimal | columns | centered
-    language_switcher: true
+    language_switcher: false
     # Custom footer text (HTML supported)
     text: ""
 
@@ -116,7 +116,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   copyright:
     # Copyright notice - supports {year}, {name}, {license} placeholders
-    notice: "© 2026 Leila L. Escobar-Yomona. "
+    notice: "© {year} Leila Escobar-Yomona. {license}"
     license:
       type: cc # cc | custom
       allow_derivatives: false
@@ -172,7 +172,7 @@ hugoblox:
   # Site search
   # ────────────────────────────────────────────────────────────────────────────
   search:
-    enable: true
+    enable: false
     # Trending/suggested search terms
     suggestions: []
     # Quick action shortcuts in search modal

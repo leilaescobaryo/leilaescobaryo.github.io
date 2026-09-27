@@ -1,26 +1,24 @@
 # Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Bio
-    identifier: "90e15014"
+  - name: About
+    identifier: about
     url: /
     weight: 10
-  - name: Experience
-    identifier: a604b48b
-    url: experience/
+  - name: Research
+    identifier: research
+    url: research/
     weight: 20
-  - name: Environment
-    identifier: 3fa40cc9
-    url: environment/
+  - name: Experience
+    identifier: experience
+    url: experience/
     weight: 30
   - name: Leadership
-    identifier: c4231787
+    identifier: leadership
     url: leadership/
     weight: 40
-  - name: Blog
-    identifier: 98fa2817
-    url: /#blog
+  - name: CV
+    identifier: cv
+    url: uploads/resume.pdf
     weight: 50

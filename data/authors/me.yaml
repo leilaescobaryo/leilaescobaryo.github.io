@@ -4,123 +4,162 @@ is_owner: true
 name:
   display: Leila Escobar-Yomona
   given: Leila
-  family: Escobar
+  family: Escobar-Yomona
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: she/her
 postnominals:
-  - BSc. Biology
+  - BSc
 status:
-  icon: "☕️"
-role: Biology graduate & Aspiring primatologist
+  icon: "🐒"
+role: Biologist · Primate Ecology & Conservation
 bio: |
-  I am a biology graduate with a strong interest in primate ecology and 
-  conservation in tropical ecosystems. I have conducted my undergraduate thesis
-  research on ecological processes of native primates species in Peru.
-  I've gained experience in field and research settings in Peru and internationally.
-  My interest lie in understanding species interations 
+  I am a Peruvian biologist (BSc, Cayetano Heredia Peruvian University) working full time
+  in primate research and conservation in the Neotropics. I currently lead, as consultant
+  biologist, the ecological assessment of an Amazonian site for the reintroduction of
+  primates confiscated from the illegal wildlife trade. My undergraduate thesis examines
+  seed dispersal by the endemic *Lagothrix flavicauda* and *Aotus miconax* in the montane
+  forests of Amazonas. I have also worked with *Ateles chamek* in Manu and Madre de Dios,
+  and with reintroduced golden lion tamarins in Brazil.
 
 affiliations:
-  - name: Research Group on Socioecological Systems
+  - name: Ikama Peru Wildlife Rescue Center
+  - name: Lab of Socio-ecological Systems, UPCH
     url: https://hubecosocial.wordpress.com/
 
 links:
   - icon: at-symbol
     url: mailto:leilaescobaryomona@gmail.com
-    label: E-mail Me
+    label: E-mail
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/leila-escobar/
+    label: LinkedIn
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-5768-8171
+    label: ORCID
+  - icon: academicons/cv
+    url: uploads/resume.pdf
+    label: CV
 
 interests:
-  - Primate ecology
+  - Primate ecology & behaviour
+  - Seed dispersal
+  - Primate reintroduction
   - Conservation biology
-  - Molecular ecology
-  - Conservation genetics
-  - Global change
+  - Wildlife trafficking
   - Socio-ecological systems
- 
 
 education:
-  - degree: BSc Biology
-    institution: Cayetano Heredia Peruvian University
+  - degree: BSc in Biology
+    institution: Cayetano Heredia Peruvian University (UPCH)
     start: 2020
     end: 2025
     summary: |
-      Focus on ecology and conservation.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-
+      Completed December 2025. Full national undergraduate scholarship (Beca 18).
+      Undergraduate thesis in progress on seed dispersal by Peruvian endemic primates.
 
 experience:
-  - role: Undergraduate Researcher
-    org: Laboratory of Socioecological Systems
-    start: 2023
+  - role: Consultant Biologist and Project Lead
+    org: Ikama Peru Wildlife Rescue Center, Loreto, Peru
+    start: 2026-06-01
     summary: |
-      Conducted thesis research on ecological processes (seed dispersal) by neotropical primates.
-    
-  - role: Research & Environmental Education Intern
-    org: Neotropical Primate Conservation, Peru
-    start: 2025-05
-    end: 2025-09
-    summary: |
-      Conducted field research on primate ecology and conservation in the Peruvian Amazon.
+      - Design and lead the ecological assessment determining the suitability of an Amazonian site for the reintroduction of primates confiscated from the illegal wildlife trade.
+      - Estimate primate abundance and density through standardized transect surveys; establish botanical plots to characterise vegetation, forest structure and food resources.
+      - Translate field results into technical recommendations for the project and for local Peruvian authorities.
+      - Support socio-ecological components: surveys of local residents and environmental education.
 
-  - role: Participant of the Field Course on Primatological Research
-    org: Cocha Cashu Biological Station, San Diego Zoo Global Perú
-    start: 2024-09
-    end: 2024-11
+  - role: Volunteer — Golden Lion Tamarin Monitoring Programme
+    org: Associação Mico-Leão-Dourado (AMLD), Rio de Janeiro, Brazil
+    start: 2026-01-01
+    end: 2026-02-28
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      - Long-term monitoring of reintroduced golden lion tamarins (*Leontopithecus rosalia*) through radio-telemetry, direct observation and tracking of individually identified animals.
+      - Supported agroforestry management, ecotourism and environmental education within a Portuguese- and English-speaking team.
 
-  - role: Research intern
-    org: Vilgalys Lab at Duke University, Biology Department
+  - role: Undergraduate Thesis Researcher and Former Volunteer
+    org: Neotropical Primate Conservation & Lab of Socio-ecological Systems, UPCH — Amazonas, Peru
+    start: 2025-01-01
+    summary: |
+      - Designed and implemented a field study of seed dispersal by *Lagothrix flavicauda* and *Aotus miconax*, two Peruvian endemic species, in montane forest — using diurnal and nocturnal tracking, focal observations and feeding records.
+      - Supported environmental education with Awajún Indigenous communities and urban schools, and contributed to the assessment of wildlife trafficking in Amazonian regions.
+
+  - role: Fellow — Primate Research Course
+    org: Cocha Cashu Biological Station, Manu National Park — San Diego Zoo Wildlife Alliance Peru
+    start: 2024-10-01
+    end: 2024-11-30
+    summary: |
+      - Intensive residential training in Neotropical primate ecology, behaviour, conservation, field methods and research design, including round tables with Indigenous communities involved in primate conservation.
+      - Conducted an independent pilot study comparing activity budgets and dietary preferences of lactating and non-lactating adult female *Ateles chamek*, developing and applying an ethogram.
+
+  - role: Field Assistant — Ateles chamek Population Monitoring
+    org: Amarakaeri Communal Reserve & SERNANP, Madre de Dios, Peru
+    start: 2024-07-01
+    end: 2024-08-31
+    summary: |
+      Estimated relative abundance and population density of *Ateles chamek* in human-disturbed areas.
+
+  - role: Research Intern — REPU Ecology Cohort
+    org: Vilgalys Lab, Duke University, North Carolina, USA
     start: 2024-01-15
     end: 2024-03-27
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Competitive research internship in a US ecology laboratory. Conducted research in fungal genomics under the supervision of Dr. Lotus Lofgren.
 
+# Skills are listed without proficiency bars; add `level: 1-5` to an item to show one.
 skills:
-  - name: Technical Skills
+  - name: Field Research
     items:
-      - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
+      - label: Primate tracking & focal observation
+        icon: hero/eye
+      - label: Transect surveys & density estimation
+        icon: hero/map
+      - label: Radio-telemetry
+        icon: hero/signal
+      - label: Botanical plots & vegetation assessment
+        icon: hero/sparkles
+      - label: Ethograms & activity budgets
+        icon: hero/clipboard-document-list
+  - name: Leadership & Communication
     items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
+      - label: Project design & coordination
+        icon: hero/rectangle-group
+      - label: Scientific communication & writing
+        icon: hero/pencil-square
+      - label: Environmental education
+        icon: hero/academic-cap
+      - label: English–Spanish science translation
+        icon: hero/language
+      - label: Multi-country volunteer teams
+        icon: hero/globe-americas
 
 languages:
-  - name: English
-    label: Fluent
   - name: Spanish
     label: Native
+  - name: English
+    label: Fluent
+    percent: 90
+  - name: Portuguese
+    label: Intermediate
+    percent: 60
 
 awards:
-  - title: EcoREPU Fellow
-    awarder: REPU (Research Experience for Peruvian Undergraduates) Program
+  - title: Fellow, Primate Research Course
+    awarder: Cocha Cashu Biological Station — San Diego Zoo Wildlife Alliance Peru
     date: "2024"
-    summary: Selected for a competitive research program aimed at strengthening scientific skills and research experience in ecology at Duke Univerity (USA.) 
+    summary: Selected for an intensive residential training in Neotropical primate ecology, behaviour and conservation in Manu National Park.
+    icon: hero/trophy
+  - title: REPU Fellow — Ecology Cohort
+    awarder: Research Experience for Peruvian Undergraduates, Duke University
+    date: "2024"
+    summary: Competitive research internship placement within a US ecology laboratory at Duke University.
     icon: hero/trophy
   - title: Aspire Leaders Program Graduate
     awarder: Aspire Institute
     date: "2022"
-    summary: Selected participant in a global leadership program designed for first-generation university students, and led by Harvard faculty, focused on academic and professional growth.
+    summary: Four-stage leadership training for first-generation university students.
     icon: hero/trophy
   - title: Undergraduate Scholarship (Beca 18)
     awarder: PRONABEC (Peruvian Ministry of Education)
     date: "2020"
-    summary: Full merit-based scholarship awarded by the Peruvian government to support undergraduate studies.
+    summary: Full national merit-based scholarship for undergraduate studies.
     icon: hero/trophy
-
