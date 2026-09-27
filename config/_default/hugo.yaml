@@ -6,7 +6,7 @@
 # Website name (set in params.yaml under hugoblox.branding.name)
 title: ''
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://leilaescobaryo.github.io/'
 
 ############################
 ## LANGUAGE
@@ -26,6 +26,15 @@ cascade:
       path: /slides/**
       kind: page
     outputs: [HTML, present]
+  # Template demo content (blog, talks, publications, projects, slides, courses)
+  # is kept in the repo for reference but is not published. Remove a section
+  # from this list once it contains your own content.
+  - _target:
+      path: '{/blog,/blog/**,/events,/events/**,/publications,/publications/**,/projects,/projects/**,/slides,/slides/**,/courses,/courses/**}'
+    build:
+      render: never
+      list: never
+      publishResources: false
 
 ############################
 ## ADVANCED

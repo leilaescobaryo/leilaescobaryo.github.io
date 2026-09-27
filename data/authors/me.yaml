@@ -4,123 +4,129 @@ is_owner: true
 name:
   display: Leila Escobar-Yomona
   given: Leila
-  family: Escobar
+  family: Escobar-Yomona
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: she/her
 postnominals:
-  - BSc. Biology
+  - BSc
 status:
-  icon: "☕️"
-role: Biology graduate & Aspiring primatologist
+  icon: "🐒"
+role: Biology Graduate · Primate Ecology & Conservation
 bio: |
-  I am a biology graduate with a strong interest in primate ecology and 
-  conservation in tropical ecosystems. I have conducted my undergraduate thesis
-  research on ecological processes of native primates species in Peru.
-  I've gained experience in field and research settings in Peru and internationally.
-  My interest lie in understanding species interations 
+  I am a biology graduate from Universidad Peruana Cayetano Heredia with a strong
+  interest in primate ecology and conservation in tropical ecosystems. For my
+  undergraduate thesis I studied seed dispersal by native primate species in Peru.
+  I have gained field and research experience in the Peruvian Amazon and abroad,
+  and I am interested in understanding species interactions and how they shape
+  forest dynamics in a changing world.
 
 affiliations:
-  - name: Research Group on Socioecological Systems
+  - name: Research Group on Socioecological Systems, UPCH
     url: https://hubecosocial.wordpress.com/
 
 links:
   - icon: at-symbol
     url: mailto:leilaescobaryomona@gmail.com
-    label: E-mail Me
+    label: E-mail
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/leila-escobar/
+    label: LinkedIn
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-5768-8171
+    label: ORCID
 
 interests:
   - Primate ecology
   - Conservation biology
+  - Seed dispersal
   - Molecular ecology
   - Conservation genetics
-  - Global change
   - Socio-ecological systems
- 
 
 education:
-  - degree: BSc Biology
-    institution: Cayetano Heredia Peruvian University
+  - degree: BSc in Biology
+    institution: Universidad Peruana Cayetano Heredia
     start: 2020
     end: 2025
     summary: |
-      Focus on ecology and conservation.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-
+      Focus on ecology and conservation. Undergraduate thesis on seed dispersal by neotropical primates.
 
 experience:
-  - role: Undergraduate Researcher
-    org: Laboratory of Socioecological Systems
-    start: 2023
-    summary: |
-      Conducted thesis research on ecological processes (seed dispersal) by neotropical primates.
-    
   - role: Research & Environmental Education Intern
     org: Neotropical Primate Conservation, Peru
-    start: 2025-05
-    end: 2025-09
+    start: 2025-05-01
+    end: 2025-09-30
     summary: |
-      Conducted field research on primate ecology and conservation in the Peruvian Amazon.
+      Conducted field research on primate ecology and conservation in the Peruvian Amazon
+      and supported environmental education activities with local communities.
 
-  - role: Participant of the Field Course on Primatological Research
-    org: Cocha Cashu Biological Station, San Diego Zoo Global Perú
-    start: 2024-09
-    end: 2024-11
+  - role: Participant, Field Course on Primatological Research
+    org: Cocha Cashu Biological Station, San Diego Zoo Wildlife Alliance Peru
+    start: 2024-09-01
+    end: 2024-11-30
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Trained in field methods for primate research in Manu National Park, including
+      behavioural observation and ecological data collection in tropical forest.
 
-  - role: Research intern
-    org: Vilgalys Lab at Duke University, Biology Department
+  - role: Research Intern (EcoREPU Fellow)
+    org: Vilgalys Lab, Department of Biology, Duke University
     start: 2024-01-15
     end: 2024-03-27
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Research internship in an evolutionary biology lab studying primates, gaining
+      hands-on experience with laboratory and molecular research methods.
 
+  - role: Undergraduate Researcher
+    org: Research Group on Socioecological Systems, Universidad Peruana Cayetano Heredia
+    start: 2023
+    summary: |
+      Conducted thesis research on ecological processes (seed dispersal) mediated by
+      neotropical primates.
+
+# Skills are listed without proficiency bars; add `level: 1-5` to an item to show one.
 skills:
-  - name: Technical Skills
+  - name: Field & Laboratory
     items:
-      - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
-        level: 4
+      - label: Primate behavioural observation
+        icon: hero/eye
+      - label: Ecological field data collection
+        icon: hero/map
+      - label: Seed dispersal methods
+        icon: hero/sparkles
+      - label: Molecular laboratory techniques
+        icon: hero/beaker
   - name: Research & Communication
     items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
+      - label: Scientific writing
+        icon: hero/pencil-square
+      - label: Data analysis
+        icon: hero/chart-bar
+      - label: Environmental education
+        icon: hero/academic-cap
+      - label: Science communication
+        icon: hero/megaphone
 
 languages:
-  - name: English
-    label: Fluent
   - name: Spanish
     label: Native
+  - name: English
+    label: Fluent
+    percent: 90
 
 awards:
   - title: EcoREPU Fellow
     awarder: REPU (Research Experience for Peruvian Undergraduates) Program
     date: "2024"
-    summary: Selected for a competitive research program aimed at strengthening scientific skills and research experience in ecology at Duke Univerity (USA.) 
+    summary: Selected for a competitive research program aimed at strengthening scientific skills and research experience in ecology at Duke University (USA).
     icon: hero/trophy
   - title: Aspire Leaders Program Graduate
     awarder: Aspire Institute
     date: "2022"
-    summary: Selected participant in a global leadership program designed for first-generation university students, and led by Harvard faculty, focused on academic and professional growth.
+    summary: Selected participant in a global leadership program for first-generation university students, led by Harvard faculty and focused on academic and professional growth.
     icon: hero/trophy
   - title: Undergraduate Scholarship (Beca 18)
     awarder: PRONABEC (Peruvian Ministry of Education)
     date: "2020"
     summary: Full merit-based scholarship awarded by the Peruvian government to support undergraduate studies.
     icon: hero/trophy
-
