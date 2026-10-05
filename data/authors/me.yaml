@@ -98,6 +98,15 @@ experience:
     summary: |
       Estimated relative abundance and population density of *Ateles chamek* in human-disturbed areas.
 
+  - role: Volunteer — Department of Mammalogy
+    org: Natural History Museum, National University of San Marcos (UNMSM), Lima, Peru
+    start: 2024-04-01
+    end: 2025-12-31
+    summary: |
+      - Supported curation of the museum's scientific mammal collections.
+      - Contributed to the primate section of the updated list of the mammals of Peru, led by Dr. Víctor Pacheco.
+      - Coordinated primate talks and activities for public outreach, including science fairs and Scientific Collections Day.
+
   - role: Research Intern — REPU Ecology Cohort
     org: Vilgalys Lab, Duke University, North Carolina, USA
     start: 2024-01-15
@@ -136,7 +145,7 @@ languages:
   - name: Spanish
     label: Native
   - name: English
-    label: Fluent
+    label: Advanced
     percent: 90
   - name: Portuguese
     label: Intermediate

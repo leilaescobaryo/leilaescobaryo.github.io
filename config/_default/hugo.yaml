@@ -30,7 +30,7 @@ cascade:
   # is kept in the repo for reference but is not published. Remove a section
   # from this list once it contains your own content.
   - _target:
-      path: '{/blog,/blog/**,/events,/events/**,/publications,/publications/**,/projects,/projects/**,/slides,/slides/**,/courses,/courses/**}'
+      path: '{/blog,/blog/**,/events,/events/**,/publications,/publications/**,/slides,/slides/**,/courses,/courses/**,/projects/pandas,/projects/pytorch,/projects/scikit}'
     build:
       render: never
       list: never

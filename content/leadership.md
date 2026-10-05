@@ -12,6 +12,11 @@ sections:
       title: 'Leadership & conservation engagement'
       subtitle: 'Building structures that connect students, science and conservation'
       text: |-
+        ### Americas Representative, Student Affairs Leadership Team
+        *International Primatological Society (IPS) · 2026–present*
+
+        - Represent students and early-career primatologists from the Americas within the IPS Student Affairs team.
+
         ### Communications Team Volunteer
         *Latin American Society of Primatology (SLAPrim) · 2025–present*
 
@@ -23,6 +28,7 @@ sections:
 
         - Designed and led the group's first in-person symposium on ecology and conservation.
         - Co-organised the 2025 Peruvian Primate Week, including the public Primate Fair and webinar series.
+        - Organised a bilingual (Spanish–English) webinar series for International Primate Day, aimed at undergraduates and recent graduates interested in different areas of primatology.
         - Coordinator of the Conservation 101 division (2024–2025) and founder-coordinator of the Primatology division (2026–present), sharing conservation theory and current research with students from Peru and other South American universities.
 
         ### Co-coordinator, Projects Commission

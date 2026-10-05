@@ -18,43 +18,23 @@ sections:
     design:
       columns: '1'
 
-  - block: markdown
+  - block: collection
+    id: projects
     content:
-      title: 'Projects'
-      subtitle: ''
-      text: |-
-        ### Site assessment for primate reintroduction
-        *Ikama Peru Wildlife Rescue Center, Loreto · 2026–present*
-
-        Ecological assessment of an Amazonian site for the reintroduction of primates confiscated
-        from the illegal wildlife trade: primate abundance and density from standardized transects,
-        botanical plots for vegetation structure and food resources, surveys of local residents,
-        and technical recommendations for Peruvian authorities.
-
-        ### Seed dispersal by *Lagothrix flavicauda* and *Aotus miconax*
-        *Undergraduate thesis · Neotropical Primate Conservation & Lab of Socio-ecological Systems, UPCH · Amazonas · 2025–present*
-
-        Field study of seed dispersal by two Peruvian endemic primates in montane forest, using
-        diurnal and nocturnal tracking, focal observations and feeding records.
-
-        ### Activity budgets of lactating *Ateles chamek* females
-        *Cocha Cashu Biological Station, Manu National Park · 2024*
-
-        Independent pilot study comparing activity budgets and dietary preferences of lactating
-        and non-lactating adult female spider monkeys, using a purpose-built ethogram.
-
-        ### Population monitoring of *Ateles chamek*
-        *Amarakaeri Communal Reserve & SERNANP, Madre de Dios · 2024*
-
-        Relative abundance and population density of spider monkeys in human-disturbed areas.
-
-        ### Monitoring of reintroduced golden lion tamarins
-        *Associação Mico-Leão-Dourado, Rio de Janeiro, Brazil · 2026*
-
-        Radio-telemetry and direct observation of individually identified *Leontopithecus rosalia*
-        in a long-term reintroduction programme.
+      title: 'Field projects'
+      text: 'Click a project to see methods, results and photos from the field.'
+      filters:
+        folders:
+          - projects
+      sort_by: Weight
+      sort_ascending: true
     design:
-      columns: '1'
+      view: article-grid
+      fill_image: true
+      columns: 3
+      show_date: false
+      show_read_time: false
+      show_read_more: false
 
   - block: markdown
     id: presentations
